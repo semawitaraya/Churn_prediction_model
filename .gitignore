@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+ds_env/
+.ipynb_checkpoints/
+.DS_Store
+.Churn_prediction_model
