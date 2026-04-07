@@ -3,7 +3,7 @@ __pycache__/
 .venv/
 venv/
 env/
-ds_env/
+.ds_env/
 .ipynb_checkpoints/
 .DS_Store
 .Churn_prediction_model
